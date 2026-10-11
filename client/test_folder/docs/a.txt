@@ -1,0 +1,2 @@
+This is docs/a.txt inside a sub-folder.
+It checks that relative paths use forward slashes.
