@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ----------------------------------------------------
+# Mini-Dropbox generated data
+# ----------------------------------------------------
+storage/
+folder2/
+folder3/
+*.part
+
+# Large test files (don't commit 50 MiB blobs)
+testdata/*.bin
+
+# Future client state file
+.minidropbox_state.json
+
+# OS files
+.DS_Store
+Thumbs.db
